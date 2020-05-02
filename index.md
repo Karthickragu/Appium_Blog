@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Appium Blog 
 
-You can use the [editor on GitHub](https://github.com/Karthickragu/Appium_Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can find the framework and sample codes for Appium here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Clone this repository in to your computer to get the files in to your IDE. Please do not place any commit from your computer. 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For any suggestions please add it in comments section.
 
 ```markdown
 Syntax highlighted code block
