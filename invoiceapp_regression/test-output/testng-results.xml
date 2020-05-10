@@ -2,24 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="175" started-at="2020-05-09T10:47:48 IST" finished-at="2020-05-09T10:47:48 IST">
+  <suite name="Default suite" duration-ms="2740" started-at="2020-05-10T23:08:09 IST" finished-at="2020-05-10T23:08:12 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="175" started-at="2020-05-09T10:47:48 IST" finished-at="2020-05-09T10:47:48 IST">
-      <class name="invoiceapp.base.Testengine">
-        <test-method status="PASS" signature="startSuite()[pri:0, instance:invoiceapp.base.Testengine@23faf8f2]" name="startSuite" is-config="true" duration-ms="113" started-at="2020-05-09T10:47:47 IST" finished-at="2020-05-09T10:47:48 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- startSuite -->
-        <test-method status="PASS" signature="startTest()[pri:0, instance:invoiceapp.base.Testengine@23faf8f2]" name="startTest" is-config="true" duration-ms="133" started-at="2020-05-09T10:47:48 IST" finished-at="2020-05-09T10:47:48 IST">
+    <test name="Default test" duration-ms="2740" started-at="2020-05-10T23:08:09 IST" finished-at="2020-05-10T23:08:12 IST">
+      <class name="invoiceapp.base.OS">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:invoiceapp.base.OS@1a3869f4]" name="startTest" is-config="true" duration-ms="2672" started-at="2020-05-10T23:08:09 IST" finished-at="2020-05-10T23:08:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTest -->
-        <test-method status="PASS" signature="jon()[pri:0, instance:invoiceapp.base.Testengine@23faf8f2]" name="jon" duration-ms="6" started-at="2020-05-09T10:47:48 IST" finished-at="2020-05-09T10:47:48 IST">
+        <test-method status="PASS" signature="test()[pri:0, instance:invoiceapp.base.OS@1a3869f4]" name="test" duration-ms="10" started-at="2020-05-10T23:08:12 IST" finished-at="2020-05-10T23:08:12 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- jon -->
-      </class> <!-- invoiceapp.base.Testengine -->
+        </test-method> <!-- test -->
+      </class> <!-- invoiceapp.base.OS -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

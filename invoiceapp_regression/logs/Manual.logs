@@ -1,28 +1,9 @@
-07/05/2020 19:53:51 devpinoyLogger Test Started successfully
-07/05/2020 19:53:51 devpinoyLogger Unale to find the Traces
-07/05/2020 19:55:20 devpinoyLogger Test Started successfully
-07/05/2020 19:55:20 devpinoyLogger Unale to find the Traces
-09/05/2020 01:07:42 devpinoyLogger Test Started successfully
-09/05/2020 01:07:42 devpinoyLogger Initializing the Extent Report
-09/05/2020 01:07:42 devpinoyLogger Test case started successfully
-09/05/2020 01:07:42 devpinoyLogger Test case passed
-09/05/2020 01:07:43 devpinoyLogger Test case started successfully
-09/05/2020 01:08:37 devpinoyLogger Test Started successfully
-09/05/2020 01:08:37 devpinoyLogger Initializing the Extent Report
-09/05/2020 01:08:37 devpinoyLogger Test case started successfully
-09/05/2020 01:08:37 devpinoyLogger Test case passed
-09/05/2020 01:08:37 devpinoyLogger Test case started successfully
-09/05/2020 01:08:37 devpinoyLogger Test case passed
-09/05/2020 10:33:58 devpinoyLogger Test Started successfully
-09/05/2020 10:33:58 devpinoyLogger Initializing the Config.properties file
-09/05/2020 10:37:51 devpinoyLogger Test Started successfully
-09/05/2020 10:37:51 devpinoyLogger Initializing the Config.properties file
-09/05/2020 10:37:51 devpinoyLogger Unable to find/Load the Properties file 
-09/05/2020 10:38:15 devpinoyLogger Test Started successfully
-09/05/2020 10:38:15 devpinoyLogger Initializing the Config.properties file
-09/05/2020 10:38:15 devpinoyLogger Properties file loaded successfully:
-09/05/2020 10:47:48 devpinoyLogger Test Started successfully
-09/05/2020 10:47:48 devpinoyLogger Initializing the Config.properties file
-09/05/2020 10:47:48 devpinoyLogger Properties file loaded successfully:
-09/05/2020 10:47:48 devpinoyLogger Initializing the Extent Report
-09/05/2020 10:47:48 devpinoyLogger Extent report is available under the directory C:\Users\karth\Appium_Blog-workspace\invoiceapp-regression\invoiceapp_regression/Reports/
+10/05/2020 19:32:52 devpinoyLogger Test Started successfully
+10/05/2020 19:32:52 devpinoyLogger Initializing the Config.properties file
+10/05/2020 19:32:52 devpinoyLogger Properties file loaded successfully:
+10/05/2020 19:33:07 devpinoyLogger Driver declared successfully : io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.invoiceapp.InvoiceLaunchScreenAct, appPackage=com.invoiceapp, autoLaunch=true, automationName=UIAutomator2, databaseEnabled=false, desired={platformName=android, autoLaunch=true, appActivity=com.invoiceapp.InvoiceLaunchScreenAct, appPackage=com.invoiceapp, automationName=UIAutomator2, deviceName="emulator-5554", newCommandTimeout=500, platformVersion="9"}, deviceApiLevel=28, deviceManufacturer=Xiaomi, deviceModel=Redmi Note 5 Pro, deviceName=5642c6b9, deviceScreenDensity=440, deviceScreenSize=1080x2160, deviceUDID=5642c6b9, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=500, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=9, statBarHeight=66, takesScreenshot=true, viewportRect={left=0, top=66, width=1080, height=1964}, warnings={}, webStorageEnabled=false}
+10/05/2020 19:33:07 devpinoyLogger Initializing the Extent Report
+10/05/2020 19:33:07 devpinoyLogger Extent report is available under the directory C:\Users\karth\Appium_Blog-workspace\BlogFiles\invoiceapp_regression/Reports/
+10/05/2020 19:33:08 devpinoyLogger Test case started successfully
+10/05/2020 19:33:08 devpinoyLogger Trying to launch the Application under Test
+10/05/2020 19:33:09 devpinoyLogger Application launched successfully
