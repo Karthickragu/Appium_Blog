@@ -1,5 +1,6 @@
 package invoiceapp.base;
 
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -152,10 +153,9 @@ public class Testengine {
 		return driver;
 	}
 
-	@Test
-	public void test001() {
+	@BeforeMethod
+	public static void openApp() {
 		log.info("Test case started successfully");
-		
 		log.info("Trying to launch the Application under Test");
 		try{
 		driver.launchApp();
